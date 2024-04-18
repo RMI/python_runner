@@ -1,6 +1,6 @@
 # python_runner
 
-docker build -t python_runner .
+docker build -t python_runner .  
 docker run -p 5000:5000 python_runner
 
 It should give you something like this
